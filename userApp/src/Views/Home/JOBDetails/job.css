@@ -1,0 +1,19 @@
+.topLi{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    margin-left: 5px;
+    white-space: nowrap;
+    font-size: 1em;
+    margin-left: 0;
+    margin-bottom: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #555;
+    position: relative;
+    padding-left: 20px;
+}
+.top-annonce{
+    border: 3px solid #ebe2e2;
+    margin-top: 53px;
+    padding: 25px;
+}
